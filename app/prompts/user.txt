@@ -1,0 +1,7 @@
+Предупреждения:
+{warnings}
+
+Данные товара:
+<PRODUCT_DATA>
+{product_data}
+</PRODUCT_DATA>
